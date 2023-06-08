@@ -1,3 +1,5 @@
+*This is a read only clone of the project repo.*
+
 # TRX Exercise App
 This is a React-based progressive web application designed to help users personalise their TRX workouts. In building this app we had two overarching goals:
 1.  Democratize workout platforms and empower users to take
